@@ -7,9 +7,9 @@
 
 ## About
 
-I'm an iOS engineer at PicPay, one of the largest payments platforms in Brazil, with more than 50 million users. At PicPay, I work with Swift, VIP, UIKit and other technologies to create high-quality mobile application.
+I'm an Senior iOS engineer at PicPay, one of the largest payments platforms in Brazil, with more than 50 million users. At PicPay, I work with Swift, VIP, UIKit and other technologies to create high-quality mobile application.
 
-I have more than 4 years of experience in mobile development, I always strive for excellence in the development of the Apple platform, applying best practices accordingly to deliver my work with the highest quality standards possible.
+I have more than 6 years of experience in mobile development, I always strive for excellence in the development of the Apple platform, applying best practices accordingly to deliver my work with the highest quality standards possible.
 
 I like to scale projects and implement improvements by applying architecture and design patterns correctly. My impact goes beyond the technical aspects, as I share knowledge and experiences to support my colleagues in their professional growth and success.
 
